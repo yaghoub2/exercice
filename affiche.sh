@@ -1,3 +1,3 @@
 #!/bin/bash
-maliste=`blablabla liste.txt`
+maliste=`cat liste.txt`
 echo $maliste
